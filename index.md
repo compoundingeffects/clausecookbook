@@ -16,7 +16,10 @@ The universe of contracts you’re likely to encounter in the technology transac
 
 - **End User & Vendor Relationships:** This category includes terms applicable to individual end users (contrasted with corporate entities), like terms of service, use, or end user license agreements.
 
-- **Enterprise Customer & Vendor Relationships:** This section includes agreements for product evaluations, sales, or licenses, as well as service contracts. More specifically, product evaluation agreements cover the assessment of software, data, hardware, or a combination of all three. Product licenses and sales encompass software, data, or content licensing, hardware purchases, or product manufacturing and supply. Service agreements are generally divided into consulting and outsourcing, with consulting typically governed by professional services agreements that may favor either the customer or vendor. Outsourcing agreements, less common than consulting agreements, involve a vendor managing a portion of the customer’s operations and can be subject to extensive negotiation.
+- **Enterprise Customer & Vendor Relationships:** This section includes agreements for product evaluations, sales, or licenses, as well as service contracts.
+    - Product evaluation agreements cover the assessment of software, data, hardware, or a combination of all three.
+    - Product licenses and sales encompass software, data, or content licensing, hardware purchases, or product manufacturing and supply.
+    - Service agreements are generally divided into consulting and outsourcing, with consulting typically governed by professional services agreements that may favor either the customer or vendor. Outsourcing agreements, less common than consulting agreements, involve a vendor managing a portion of the customer’s operations and can be subject to extensive negotiation.
 
 - **Partnerships:** This encompasses referral agreements and distribution agreements for one's own products, a partner's products, a third party's products, or all of the above.
 
