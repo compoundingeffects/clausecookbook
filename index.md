@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
 # Welcome to Clause Cookbook
 
 The purpose of this website is to streamline the process of drafting technology transaction contracts by providing a repository of contract clauses in clear, accessible English. 
