@@ -7,6 +7,8 @@ This section addresses situations where you want to disclose confidential inform
 [Discloser] ("**Discloser**") located at [Location] and [Recipient] ("**Recipient**") located at [Location] enter this non-disclosure agreement as of [Month][Day], [Year].
 
 ### Confidentiality (Permitted Disclosures)(Discloser Favorable)
+*This clause aims to protect the discloser's confidential information by limiting its disclosure, ensuring necessary safeguards are in place, and holding the recipient accountable for any unauthorized use or breaches.*
+
 Recipient agrees not to share Discloser's Confidential Information with third parties or its own employees, except for those employees who need the information to evaluate or discuss the Opportunity. Before sharing any Confidential Information, Recipient will ensure its employees have signed a non-disclosure and non-use agreement that provides protection at least equal to this Agreement’s terms. Recipient will be responsible for any breaches by its Affiliates and Representatives as if it committed the breach. Recipient must promptly inform the Discloser of any actual or suspected unauthorized use or disclosure of Confidential Information.
 
 ## Recipient-Favorable Terms
